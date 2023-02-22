@@ -1,2 +1,2 @@
-# diek
+# Diek ergasies
 DIEK tasks
